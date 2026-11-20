@@ -1,0 +1,17 @@
+{
+  "name": "筋トレ計画 — 理想体型プランナー",
+  "short_name": "筋トレ計画",
+  "description": "身長・体重から理想の体型までの期間を計算し、自重・ダンベルの週間メニューと毎日の摂取カロリーを作ります",
+  "lang": "ja",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f3f3f0",
+  "theme_color": "#2a78d6",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
